@@ -200,7 +200,7 @@ void destruirLista(Pessoas** lista) {
 }
 
 void exibirMenu() {
-    printf("----- Menu -----\n");
+    printf("----- Menu -----\n\n");
     printf("[1] Inserir pessoa\n");
     printf("[2] Remover pessoa\n");
     printf("[3] Buscar pessoa\n");
